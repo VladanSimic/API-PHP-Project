@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "mbId": "4534",
+      "initials": "SJ",
+      "name": "Sarah Jones",
+      "email": "sarah.jones@example.com",
+      "slackUserId": "U0690MMT3KJ",
+      "active": 1
+    }
+  ]
+}
+
